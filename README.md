@@ -1,4 +1,4 @@
-Hi 👋 My name is Jeart Thaqi
+Hi 👋 My name is Jeart
 ============================
 
 Full Stack Developer
