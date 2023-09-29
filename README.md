@@ -6,8 +6,8 @@ Full Stack Developer
 
 * 🌍  I'm based in Pristina, Kosovo
 * 🖥️  See my portfolio at [jertt.dev](http://jertt.dev) | Coming Soon
-* ✉️  You can contact me at [info@jertt.dev](mailto:jeart@pertej.com)
-* 🚀  I'm currently working on [Përtej](https://pertej.com) and [APAK](https://apak.at)
+* ✉️  You can contact me at [jertt.dev@gmail.com](mailto:jertt.dev@gmail.com)
+* 🚀  I'm currently working at [WebPiranha](https://webpiranha.ch) and [NovaEtix](https://novaetix.com)
 * 🧠  I'm learning to become a MERN stack developer
 * 🤝  I'm open to collaborating on awesome projects
 
