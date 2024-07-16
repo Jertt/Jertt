@@ -5,8 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Pristina, Kosovo
-* 🖥️  See my portfolio at [jertt.dev](http://jertt.dev) | Coming Soon
-* ✉️  You can contact me at [jertt.dev@gmail.com](mailto:jertt.dev@gmail.com)
+* ✉️  You can contact me at [jeart.thaqi@novaetix.com](mailto:jeart.thaqi@novaetix.com)
 * 🚀  I'm currently working at [WebPiranha](https://webpiranha.ch) and [NovaEtix](https://novaetix.com)
 * 🧠  I'm learning to become a MERN stack developer
 * 🤝  I'm open to collaborating on awesome projects
