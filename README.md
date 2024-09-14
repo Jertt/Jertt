@@ -6,8 +6,8 @@ Full Stack Developer
 
 * 🌍  I'm based in Pristina, Kosovo
 * ✉️  You can contact me at [jeart.thaqi@novaetix.com](mailto:jeart.thaqi@novaetix.com)
-* 🚀  I'm currently working at [WebPiranha](https://webpiranha.ch) and [NovaEtix](https://novaetix.com)
-* 🧠  I'm learning to become a MERN stack developer
+* 🚀  I'm currently working on [NovaEtix](https://novaetix.com) and [WebPiranha](https://webpiranha.ch)
+* 🧠  I'm learning to develop our own SASS
 * 🤝  I'm open to collaborating on awesome projects
 
 ### Skills
